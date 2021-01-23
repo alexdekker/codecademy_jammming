@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Jammming is a learning Project from Codecademy.com
+# I'm using this site to learn about developing web applications in general, mostly using js
+
+----------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
